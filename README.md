@@ -1,5 +1,8 @@
 # PetMates-RS-practice
 
+:school_satchel: School Project
+
+
 🐕🐹🐮🦆🐛🐍
 
 Here is result of collectiv school project I did with two other teammates in february 2023. 👩‍🎓
